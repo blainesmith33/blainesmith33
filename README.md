@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ChatGPT%20Image%20Jun%2021,%202026,%2011_00_46%20AM.png" alt="Helping people see clearly enough to exercise agency" width="100%">
+  <img src="ChatGPT%20Image%20Jun%2021%2C%202026%2C%2011_17_32%20AM.png" alt="Observatory" width="100%">
 </p>
 
 # Blaine Smith
