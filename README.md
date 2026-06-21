@@ -6,9 +6,9 @@
 
 Builder of systems for human capability, governance, knowledge continuity, and AI-augmented execution.
 
-## Mission
+> Helping people see clearly enough to exercise agency.
 
-Helping people see clearly enough to exercise agency.
+## Mission
 
 My work focuses on transforming observations into knowledge, knowledge into decisions, and decisions into meaningful action.
 
