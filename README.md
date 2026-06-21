@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="ChatGPT%20Image%20Jun%2021,%202026,%2011_00_46%20AM.png" alt="Helping people see clearly enough to exercise agency" width="100%">
+</p>
+
 # Blaine Smith
 
 Builder of systems for human capability, governance, knowledge continuity, and AI-augmented execution.
