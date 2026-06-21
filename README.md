@@ -8,9 +8,9 @@ Builder of systems for human capability, governance, knowledge continuity, and A
 
 ## Mission
 
-I am exploring how humans and AI can work together without sacrificing agency, accountability, legitimacy, governance, or long-term continuity.
-
 My work focuses on transforming observations into knowledge, knowledge into decisions, and decisions into meaningful action.
+
+Through governance systems, knowledge infrastructure, and human-centered AI, I am exploring how transparency, honesty, and continuity can strengthen human capability rather than diminish it.
 
 ---
 
